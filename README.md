@@ -1,4 +1,4 @@
-# CP020001_Computer Programming at Khon Kaen University 2023
+# CP020001 Computer Programming at Khon Kaen University 2023
 
 [![Support-Ukraine](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/Support-Ukraine-FFD500.svg)](https://supportukrainenow.org/)
 
