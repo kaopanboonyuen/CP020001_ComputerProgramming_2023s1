@@ -14,8 +14,10 @@ Slide:
 
 ### Reference:
 
-1. https://www.kaggle.com/code
-2. https://www.tensorflow.org/tutorials
-3. https://github.com/topics/machine-learning
-4. https://archive.ics.uci.edu/ml/datasets.php
-5. https://colab.research.google.com/notebooks/
+1. https://colab.research.google.com/notebooks/
+2. https://problemsolvingwithpython.com/
+3. https://www.cp.eng.chula.ac.th/books/python101/
+4. https://www.eng.chula.ac.th/th/20535
+5. https://towardsdatascience.com/graph-visualisation-basics-with-python-part-i-flowcharts-6298c4f412e0
+6. https://www.programiz.com/article/flowchart-programming
+7. https://www.toppr.com/guides/python-guide/tutorials/python-flow-control/if-elif-else/python-if-if-else-if-elif-else-and-nested-if-statement/
