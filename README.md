@@ -6,9 +6,9 @@
 
 ## Short links for Google Colab: https://colab.research.google.com/
 
-### FlowChart and Pseudo Code (I):
+### FlowChart and Pseudo Code (I and II):
 
-- Slide: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/slides/CP020001-lecture_flowchart_and_pseudocode_part_I.pdf
+- Slide: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/slides/CP020001-lecture_flowchart_and_pseudocode.pdf
 - Sample: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/files/CP020001-Flowcharts-Sample.pdf
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
