@@ -8,7 +8,8 @@
 
 ### FlowChart and Pseudo Code (I):
 
-Slide:
+Slide: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/slides/lecture_flowchart_and_pseudocode_part_I.pdf
+Sample: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/files/CP020001-Flowcharts-Sample.pdf
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
