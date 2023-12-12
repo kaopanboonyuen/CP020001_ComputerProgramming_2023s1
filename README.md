@@ -11,6 +11,8 @@
 - Slide: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/slides/CP020001-lecture_flowchart_and_pseudocode.pdf
 - Sample: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/files/CP020001-Flowcharts-Sample.pdf
 
+- Assignment: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/files/CP020001-Workshop2_ActivityDiagram.pdf
+
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
 ### Reference:
