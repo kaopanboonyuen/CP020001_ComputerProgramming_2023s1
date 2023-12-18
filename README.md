@@ -13,7 +13,7 @@
 
 - Assignment: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/files/CP020001-Workshop2_ActivityDiagram.pdf
 
-### FlowChart and Pseudo Code (I and II):
+### Basic Python Part I:
 
 - Slide: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/slides/CP020001-Lecture-BasicPython-Part-I.pdf
 - Assignment: N/A
