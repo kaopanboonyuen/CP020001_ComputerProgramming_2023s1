@@ -21,7 +21,7 @@
 ### List/Array:
 
 - Slide: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/slides/CP020001-Lecture-List_Array.pdf
-- Assignment: N/A
+- Assignment: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/files/CP020001-List_Array-Laboratory-Activities.pdf
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
