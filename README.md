@@ -20,7 +20,7 @@
 
 ### List/Array:
 
-- Slide: N/A
+- Slide: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/slides/CP020001-Lecture-List_Array.pdf
 - Assignment: N/A
 
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
