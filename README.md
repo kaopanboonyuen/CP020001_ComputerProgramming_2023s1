@@ -18,6 +18,11 @@
 - Slide: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/slides/CP020001-Lecture-BasicPython-Part-I.pdf
 - Assignment: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/files/CP020001-BasicPython-Part-I-Laboratory-Activities.pdf
 
+### List/Array:
+
+- Slide: N/A
+- Assignment: N/A
+
 ** Updated python codes/notebooks will be posted here shortly before each lecture.
 
 ### Reference:
