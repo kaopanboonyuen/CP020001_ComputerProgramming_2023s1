@@ -2,8 +2,6 @@
 
 [![Support Ukraine](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/Support-Ukraine-FFD500.svg)](https://supportukrainenow.org/)
 
-![Join Python](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/raw/main/image/python-intro.png "Join Python")
-
 ## 🧑‍🌾 Lecturer: Teerapong Panboonyuen (Kao), Ph.D.  
 
 📧 **Contact**:  
