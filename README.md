@@ -35,4 +35,4 @@
 6. [Programiz - Flowchart Programming](https://www.programiz.com/article/flowchart-programming)
 7. [Toppr - Python Flow Control](https://www.toppr.com/guides/python-guide/tutorials/python-flow-control/if-elif-else/python-if-if-else-if-elif-else-and-nested-if-statement/)
 
-✨ **Stay updated!** Python codes and notebooks will be shared here regularly before each lecture. Let's get coding! 🚀
+✨ **Stay updated!** Python codes will be shared here regularly before each lecture. Let's get coding! 🚀
