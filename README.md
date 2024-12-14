@@ -1,36 +1,34 @@
-# CP020001 Computer Programming at Khon Kaen University 2023
+# 🍑 CP020001 Computer Programming at Khon Kaen University 2024s2
 
-[![Support-Ukraine](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/Support-Ukraine-FFD500.svg)](https://supportukrainenow.org/)
+[![Support Ukraine](https://raw.githubusercontent.com/kaopanboonyuen/2110446_DataScience_2021s2/main/img/Support-Ukraine-FFD500.svg)](https://supportukrainenow.org/)
 
-![alt text](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/raw/main/image/python-intro.png "join python")
+![Join Python](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/raw/main/image/python-intro.png "Join Python")
 
-## Short links for Google Colab: https://colab.research.google.com/
+## 🚀 Quick Links for Google Colab:
+[Google Colab](https://colab.research.google.com/)
 
-### FlowChart and Pseudo Code (I and II):
+### 📚 Week 1 - Introduction to Python
 
-- Slide: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/slides/CP020001-lecture_flowchart_and_pseudocode.pdf
-- Sample: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/files/CP020001-Flowcharts-Sample.pdf
+- **Slide**: [📄 Basic Python Part I - Lecture Slide](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/slides/CP020001-BasicPython-Basic-Python-Part-I.pdf)
+- **Code**: [💻 Basic Python Part I - Student Version](https://colab.research.google.com/github/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/code/CP020001_BasicPython_Basic_Python_Part_I_toStudennt.ipynb)
+- **Assignment**: [📝 Basic Python Part I - Assignment](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/assignments/CP020001-BasicPython-Basic-Python-Part-I.pdf)
 
-- Assignment: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/files/CP020001-Workshop2_ActivityDiagram.pdf
+**Updated Python codes and notebooks will be posted here shortly before each lecture.**
 
-### Basic Python Part I:
+### 🧑‍🏫 Flowchart & Pseudo Code (I and II):
 
-- Slide: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/slides/CP020001-Lecture-BasicPython-Part-I.pdf
-- Assignment: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/files/CP020001-BasicPython-Part-I-Laboratory-Activities.pdf
+- **Slide**: [📄 Flowchart & Pseudo Code](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/slides/CP020001-lecture_flowchart_and_pseudocode.pdf)
+- **Sample**: [🔧 Flowchart Sample](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/files/CP020001-Flowcharts-Sample.pdf)
+- **Assignment**: [📝 Activity Diagram - Workshop 2](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/blob/main/files/CP020001-Workshop2_ActivityDiagram.pdf)
 
-### List/Array:
+### 📘 Reference Materials:
 
-- Slide: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/slides/CP020001-Lecture-List_Array.pdf
-- Assignment: https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2023s1/blob/main/files/CP020001-List_Array-Laboratory-Activities.pdf
+1. [Google Colab - Notebooks](https://colab.research.google.com/notebooks/)
+2. [Problem Solving with Python](https://problemsolvingwithpython.com/)
+3. [Python101 - Chulalongkorn University](https://www.cp.eng.chula.ac.th/books/python101/)
+4. [Chulalongkorn University - CP Website](https://www.eng.chula.ac.th/th/20535)
+5. [Graph Visualization with Python - Towards Data Science](https://towardsdatascience.com/graph-visualisation-basics-with-python-part-i-flowcharts-6298c4f412e0)
+6. [Programiz - Flowchart Programming](https://www.programiz.com/article/flowchart-programming)
+7. [Toppr - Python Flow Control](https://www.toppr.com/guides/python-guide/tutorials/python-flow-control/if-elif-else/python-if-if-else-if-elif-else-and-nested-if-statement/)
 
-** Updated python codes/notebooks will be posted here shortly before each lecture.
-
-### Reference:
-
-1. https://colab.research.google.com/notebooks/
-2. https://problemsolvingwithpython.com/
-3. https://www.cp.eng.chula.ac.th/books/python101/
-4. https://www.eng.chula.ac.th/th/20535
-5. https://towardsdatascience.com/graph-visualisation-basics-with-python-part-i-flowcharts-6298c4f412e0
-6. https://www.programiz.com/article/flowchart-programming
-7. https://www.toppr.com/guides/python-guide/tutorials/python-flow-control/if-elif-else/python-if-if-else-if-elif-else-and-nested-if-statement/
+✨ **Stay updated!** Python codes and notebooks will be shared here regularly before each lecture. Let's get coding! 🚀
