@@ -4,6 +4,12 @@
 
 ![Join Python](https://github.com/kaopanboonyuen/CP020001_ComputerProgramming_2024s2/raw/main/image/python-intro.png "Join Python")
 
+## 🧑‍🌾 Lecturer: Teerapong Panboonyuen (Kao), Ph.D.  
+
+📧 **Contact**:  
+- [teerapong.pa@chula.ac.th](mailto:teerapong.pa@chula.ac.th)  
+- [panboonyuen.kao@gmail.com](mailto:panboonyuen.kao@gmail.com)
+
 ## 🚀 Quick Links for Google Colab:
 [Google Colab](https://colab.research.google.com/)
 
